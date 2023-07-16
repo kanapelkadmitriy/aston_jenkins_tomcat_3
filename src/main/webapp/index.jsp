@@ -8,6 +8,6 @@
 <h1><%= "Hello Ilya! I devops now?" %>
 </h1>
 <br/>
-<a href="=======">Hello Servlet</a>
+<a href="hello-servlet">Hello Servle</a>
 </body>
 </html>
