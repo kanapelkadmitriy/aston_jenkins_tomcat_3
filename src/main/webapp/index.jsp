@@ -5,9 +5,9 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello Ilya! I devops now?" %>
+<h1><%= "Hello Ilya!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servle</a>
+<a href="hello-servlet"> I devops!</a>
 </body>
 </html>
